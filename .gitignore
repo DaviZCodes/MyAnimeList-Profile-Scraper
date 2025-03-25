@@ -1,0 +1,6 @@
+# Ignore the constants and API keys 
+.env
+
+.venv
+
+*.pyc

@@ -1,0 +1,768 @@
+{
+   "user": "Xinil",
+   "user_url": "https://myanimelist.net/profile/Xinil",
+   "user_profile": {
+      "Last Online": "Dec 20, 2023 10:50 PM",
+      "Gender": "Male",
+      "Birthday": "Mar 4, 1985",
+      "Location": "California",
+      "Joined": "Nov 5, 2004",
+      "Forum Posts": "5,752",
+      "Reviews": "17",
+      "Recommendations": "24",
+      "Interest Stacks": "0",
+      "Blog Posts": "8",
+      "Clubs": "57",
+      "Number Of Friends": 620,
+      "About Me": "Founder and creator of MyAnimeList. \n\r\nThanks for stopping by!",
+      "Anime Days": 142.3,
+      "Anime Mean Score": 7.37,
+      "Anime Watching": 1,
+      "Anime Completed": 233,
+      "Anime On-Hold": 8,
+      "Anime Dropped": 93,
+      "Anime Plan to Watch": 64,
+      "Anime Total Entries": 399,
+      "Rewatched": 60,
+      "Episodes": 8481,
+      "User Last Anime and Manga Updates": [
+         {
+            "One Piece": [
+               "Apr 19, 2021 2:44 PM",
+               [
+                  "Watching",
+                  "623",
+                  "/?\n",
+                  "Scored",
+                  "9"
+               ]
+            ]
+         },
+         {
+            "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky": [
+               "Sep 23, 2020 9:50 PM",
+               [
+                  "Plan",
+                  "to",
+                  "Watch\n",
+                  "Scored\n",
+                  "-"
+               ]
+            ]
+         },
+         {
+            "Hunter x Hunter (2011)": [
+               "Sep 5, 2020 9:35 PM",
+               [
+                  "Completed",
+                  "148",
+                  "/148\n",
+                  "Scored",
+                  "9"
+               ]
+            ]
+         },
+         {
+            "One Punch-Man": [
+               "Jan 15, 2022 11:47 PM",
+               [
+                  "Reading",
+                  "92",
+                  "/?\n",
+                  "Scored",
+                  "8"
+               ]
+            ]
+         },
+         {
+            "Hajime no Ippo": [
+               "Oct 25, 2013 9:13 PM",
+               [
+                  "Reading",
+                  "135",
+                  "/?\n",
+                  "Scored",
+                  "9"
+               ]
+            ]
+         },
+         {
+            "Hoshi no Samidare": [
+               "Jul 7, 2011 2:04 PM",
+               [
+                  "Plan",
+                  "to",
+                  "Read\n",
+                  "Scored\n",
+                  "-"
+               ]
+            ]
+         }
+      ],
+      "Manga Days": 17.6,
+      "Manga Mean Score": 7.35,
+      "Manga Reading": 15,
+      "Manga Completed": 12,
+      "Manga On-Hold": 3,
+      "Manga Dropped": 21,
+      "Manga Plan to Read": 25,
+      "Manga Total Entries": 76,
+      "Reread": 0,
+      "Chapters": 3283,
+      "Volumes": 189,
+      "User Favorites": [
+         "Cowboy Bebop",
+         "Trigun",
+         "Hajime no Ippo",
+         "Full Metal Panic? Fumoffu",
+         "Hunter x Hunter (2011)",
+         "One Piece",
+         "Hajime no Ippo",
+         "Nodame Cantabile",
+         "Death Note",
+         "Initial D",
+         "Spiegel, Spike",
+         "Sagara, Sousuke",
+         "Vash the Stampede",
+         "Makunouchi, Ippo",
+         "Monkey D., Luffy",
+         "Suzumiya, Haruhi",
+         "Onizuka, Eikichi",
+         "Chiaki, Shinichi",
+         "Freecss, Gon",
+         "Seki, Tomokazu",
+         "Blum, Steven",
+         "Yukino, Satsuki",
+         "Sugita, Tomokazu",
+         "Urasawa, Naoki",
+         "Hirano, Aya"
+      ],
+      "User Profile Comments": [
+         [
+            "hacker_3",
+            "that is test 2",
+            "Mar 17, 6:19 AM"
+         ],
+         [
+            "hacker_2",
+            "new_test_",
+            "Mar 17, 6:17 AM"
+         ],
+         [
+            "hacker_3",
+            "that is test 2",
+            "Mar 17, 6:13 AM"
+         ],
+         [
+            "hacker_3",
+            "the is an updated test",
+            "Mar 17, 6:06 AM"
+         ],
+         [
+            "xoratia",
+            "one of the greatest figures in otaku history",
+            "Mar 14, 8:06 AM"
+         ],
+         [
+            "bozophobic",
+            "happy (late) 40th birthday GOAT",
+            "Mar 8, 9:02 AM"
+         ],
+         [
+            "Kzzz",
+            "mal became giga L after the stocks was sold, come back king and buy mal from sony",
+            "Mar 1, 10:08 AM"
+         ],
+         [
+            "catt0s",
+            "Dude made the golden days of MAL possible. Pretty unfortunate what has happened since.",
+            "Jan 22, 4:16 PM"
+         ],
+         [
+            "KingSmugs",
+            "what a chad",
+            "Jan 20, 7:09 PM"
+         ],
+         [
+            "EsGoreng__",
+            "Legend",
+            "Jan 14, 4:30 AM"
+         ],
+         [
+            "Evarody",
+            "Thank you for your hard work.",
+            "Jan 5, 6:38 PM"
+         ],
+         [
+            "raymon2039",
+            "Are you real?",
+            "Dec 30, 2024 2:19 PM"
+         ],
+         [
+            "RISE-TBSC",
+            "GOAT",
+            "Dec 18, 2024 7:32 PM"
+         ],
+         [
+            "Shaun_Y",
+            "Thank you for your service, I love it",
+            "Dec 17, 2024 9:36 PM"
+         ],
+         [
+            "Amber_lord",
+            "Thank you for your service \ud83d\ude47",
+            "Nov 24, 2024 10:19 PM"
+         ]
+      ]
+   },
+   "user_top20_animelist": {
+      "Cowboy Bebop": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2009-08-10T23:43:11+00:00",
+         "start_date": "2002-01-03",
+         "finish_date": "2002-01-17"
+      },
+      "Trigun": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2006-04-27T22:38:35+00:00",
+         "start_date": "2002-02-01",
+         "finish_date": "2002-02-03"
+      },
+      "Shinseiki Evangelion": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2009-05-18T18:37:42+00:00",
+         "start_date": "2001-10-11",
+         "finish_date": "2001-11-13"
+      },
+      "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 4,
+         "is_rewatching": false,
+         "updated_at": "2008-02-15T16:41:54+00:00",
+         "start_date": "2002-04-02",
+         "finish_date": "2002-04-02"
+      },
+      "Full Metal Panic? Fumoffu": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 12,
+         "is_rewatching": false,
+         "updated_at": "2007-09-29T04:37:22+00:00",
+         "start_date": "2003-08-28",
+         "finish_date": "2003-11-20"
+      },
+      "Full Metal Panic! The Second Raid": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 13,
+         "is_rewatching": false,
+         "updated_at": "2009-02-16T20:50:37+00:00",
+         "start_date": "2005-07-27",
+         "finish_date": "2005-10-23"
+      },
+      "Hunter x Hunter": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 62,
+         "is_rewatching": false,
+         "updated_at": "2009-02-07T04:49:15+00:00",
+         "start_date": "2003-02-10",
+         "finish_date": "2003-02-25"
+      },
+      "Sen to Chihiro no Kamikakushi": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 1,
+         "is_rewatching": false,
+         "updated_at": "2009-07-07T21:45:16+00:00",
+         "start_date": "2003-02-06",
+         "finish_date": "2003-02-06"
+      },
+      "Hajime no Ippo": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 76,
+         "is_rewatching": false,
+         "updated_at": "2006-04-19T06:03:17+00:00",
+         "start_date": "2003-06-24",
+         "finish_date": "2003-08-05"
+      },
+      "Howl no Ugoku Shiro": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 1,
+         "is_rewatching": false,
+         "updated_at": "2006-04-23T05:27:54+00:00",
+         "start_date": "2006-04-22",
+         "finish_date": "2006-04-22"
+      },
+      "Suzumiya Haruhi no Yuuutsu": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 14,
+         "is_rewatching": false,
+         "updated_at": "2007-08-22T07:04:36+00:00",
+         "start_date": "2006-04-23",
+         "finish_date": "2006-07-03"
+      },
+      "Nodame Cantabile": {
+         "status": "completed",
+         "score": 10,
+         "num_episodes_watched": 23,
+         "is_rewatching": false,
+         "updated_at": "2007-08-29T18:36:59+00:00",
+         "start_date": "2007-04-01",
+         "finish_date": "2007-07-04"
+      },
+      "Witch Hunter Robin": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2006-07-09T07:07:00+00:00",
+         "start_date": "2002-11-29",
+         "finish_date": "2002-12-27"
+      },
+      "Monster": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 74,
+         "is_rewatching": false,
+         "updated_at": "2007-05-22T19:02:18+00:00",
+         "start_date": "2004-05-26",
+         "finish_date": "2007-04-08"
+      },
+      "One Piece": {
+         "status": "watching",
+         "score": 9,
+         "num_episodes_watched": 623,
+         "is_rewatching": false,
+         "updated_at": "2021-04-19T21:44:42+00:00",
+         "start_date": "2003-09-21"
+      },
+      "School Rumble": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2006-04-07T22:35:11+00:00",
+         "start_date": "2004-12-06",
+         "finish_date": "2005-12-06"
+      },
+      "Shinseiki Evangelion Movie: Shi to Shinsei": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 1,
+         "is_rewatching": false,
+         "updated_at": "2006-11-28T00:27:42+00:00",
+         "start_date": "2002-01-12",
+         "finish_date": "2002-01-12"
+      },
+      "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 0,
+         "is_rewatching": false,
+         "updated_at": "2006-10-19T14:51:39+00:00",
+         "start_date": "2002-01-12",
+         "finish_date": "2002-01-12"
+      },
+      "Kenpuu Denki Berserk": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 25,
+         "is_rewatching": false,
+         "updated_at": "2008-02-04T18:43:38+00:00",
+         "start_date": "2003-10-05",
+         "finish_date": "2003-10-07"
+      },
+      "Beck": {
+         "status": "completed",
+         "score": 9,
+         "num_episodes_watched": 26,
+         "is_rewatching": false,
+         "updated_at": "2015-05-26T16:36:30+00:00",
+         "start_date": "2005-01-17",
+         "finish_date": "2005-04-05"
+      }
+   },
+   "user_bottom20_animelist": {
+      "Nageki no Kenkou Yuuryouji": {
+         "status": "completed",
+         "score": 3,
+         "num_episodes_watched": 3,
+         "is_rewatching": false,
+         "updated_at": "2004-12-22T07:28:54+00:00",
+         "start_date": "2003-10-13",
+         "finish_date": "2003-10-13"
+      },
+      "Pia Carrot e Youkoso!! 2": {
+         "status": "completed",
+         "score": 3,
+         "num_episodes_watched": 3,
+         "is_rewatching": false,
+         "updated_at": "2005-12-23T20:32:44+00:00",
+         "start_date": "2003-10-08",
+         "finish_date": "2003-10-09"
+      },
+      "Buttobi!! CPU": {
+         "status": "completed",
+         "score": 4,
+         "num_episodes_watched": 3,
+         "is_rewatching": false,
+         "updated_at": "2005-12-29T15:55:36+00:00",
+         "start_date": "2003-10-13",
+         "finish_date": "2003-10-13"
+      },
+      "Hanaukyou Maid-tai": {
+         "status": "completed",
+         "score": 4,
+         "num_episodes_watched": 12,
+         "is_rewatching": false,
+         "updated_at": "2005-12-23T21:00:16+00:00",
+         "start_date": "2003-06-17",
+         "finish_date": "2003-06-17"
+      },
+      "Ikkitousen": {
+         "status": "completed",
+         "score": 4,
+         "num_episodes_watched": 13,
+         "is_rewatching": false,
+         "updated_at": "1970-01-01T00:00:00+00:00",
+         "start_date": "2003-09-02",
+         "finish_date": "2003-11-16"
+      },
+      "Pia Carrot e Youkoso!!": {
+         "status": "completed",
+         "score": 4,
+         "num_episodes_watched": 3,
+         "is_rewatching": false,
+         "updated_at": "1970-01-01T00:00:00+00:00",
+         "start_date": "2003-10-08",
+         "finish_date": "2003-10-08"
+      },
+      "Project A-Ko": {
+         "status": "completed",
+         "score": 4,
+         "num_episodes_watched": 1,
+         "is_rewatching": false,
+         "updated_at": "1970-01-01T00:00:00+00:00",
+         "start_date": "2003-02-24",
+         "finish_date": "2003-02-24"
+      },
+      "Blassreiter": {
+         "status": "dropped",
+         "score": 5,
+         "num_episodes_watched": 2,
+         "is_rewatching": false,
+         "updated_at": "2008-08-25T17:58:19+00:00",
+         "start_date": "2008-04-25"
+      },
+      "Choukou Tenshi Escalayer": {
+         "status": "completed",
+         "score": 5,
+         "num_episodes_watched": 3,
+         "is_rewatching": false,
+         "updated_at": "2007-07-02T22:01:39+00:00",
+         "start_date": "2007-07-01",
+         "finish_date": "2007-07-01"
+      },
+      "Katekyou Hitman Reborn!": {
+         "status": "dropped",
+         "score": 5,
+         "num_episodes_watched": 5,
+         "is_rewatching": false,
+         "updated_at": "2008-02-01T07:26:06+00:00",
+         "start_date": "2007-06-13"
+      }
+   },
+   "user_top20_mangalist": {
+      "Hajime no Ippo": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 76,
+         "num_chapters_read": 135,
+         "score": 9,
+         "updated_at": "2013-10-26T04:13:30+00:00",
+         "start_date": "2007-03-02"
+      },
+      "Death Note": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 12,
+         "num_chapters_read": 108,
+         "score": 9,
+         "updated_at": "2007-08-26T03:35:26+00:00",
+         "start_date": "2007-01-11",
+         "finish_date": "2007-02-10"
+      },
+      "Nodame Cantabile": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 119,
+         "score": 9,
+         "updated_at": "2008-06-30T06:42:18+00:00",
+         "start_date": "2007-11-24"
+      },
+      "One Piece": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 430,
+         "score": 8,
+         "updated_at": "2008-01-31T23:33:17+00:00",
+         "start_date": "2008-01-31"
+      },
+      "Initial D": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 557,
+         "score": 8,
+         "updated_at": "2010-01-04T06:52:28+00:00",
+         "start_date": "2009-07-14"
+      },
+      "Mx0": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 10,
+         "num_chapters_read": 99,
+         "score": 8,
+         "updated_at": "2008-10-09T04:35:01+00:00",
+         "start_date": "2007-07-15"
+      },
+      "Girls Saurus": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 3,
+         "num_chapters_read": 17,
+         "score": 8,
+         "updated_at": "2009-06-16T07:33:15+00:00",
+         "start_date": "2007-10-02",
+         "finish_date": "2007-10-03"
+      },
+      "Katsu!": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 16,
+         "num_chapters_read": 157,
+         "score": 8,
+         "updated_at": "2008-01-10T16:58:03+00:00",
+         "start_date": "2007-08-15",
+         "finish_date": "2007-08-17"
+      },
+      "Gekkou": {
+         "status": "on_hold",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 20,
+         "score": 8,
+         "updated_at": "2008-08-07T05:17:31+00:00",
+         "start_date": "2007-08-05"
+      },
+      "Superior": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 4,
+         "num_chapters_read": 18,
+         "score": 8,
+         "updated_at": "2008-10-13T06:33:20+00:00",
+         "start_date": "2007-08-27"
+      },
+      "B-Shock": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 4,
+         "num_chapters_read": 52,
+         "score": 8,
+         "updated_at": "2008-01-22T09:36:23+00:00",
+         "start_date": "2007-11-18",
+         "finish_date": "2008-01-22"
+      },
+      "All Rounder Meguru": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 28,
+         "score": 8,
+         "updated_at": "2010-07-03T07:08:31+00:00",
+         "start_date": "2010-06-01"
+      },
+      "One Punch-Man": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 92,
+         "score": 8,
+         "updated_at": "2022-01-16T07:47:27+00:00"
+      },
+      "Naruto": {
+         "status": "on_hold",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 210,
+         "score": 7,
+         "updated_at": "2009-02-26T18:09:40+00:00"
+      },
+      "Bleach": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 314,
+         "score": 7,
+         "updated_at": "2009-09-13T21:33:49+00:00",
+         "start_date": "2008-01-30"
+      },
+      "3.3.7 Byooshi!!": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 14,
+         "score": 7,
+         "updated_at": "2008-10-13T06:44:37+00:00",
+         "start_date": "2007-08-07"
+      },
+      "Futari Ecchi": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 23,
+         "score": 7,
+         "updated_at": "2008-08-07T05:17:44+00:00",
+         "start_date": "2007-08-29"
+      },
+      "Gachagacha": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 10,
+         "score": 7,
+         "updated_at": "2007-08-11T20:22:21+00:00",
+         "start_date": "2007-08-08"
+      },
+      "Oretama": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 25,
+         "score": 7,
+         "updated_at": "2009-01-11T03:29:10+00:00",
+         "start_date": "2007-05-09"
+      },
+      "Lilim Kiss": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 2,
+         "num_chapters_read": 24,
+         "score": 7,
+         "updated_at": "2008-02-03T02:46:00+00:00",
+         "start_date": "2007-07-14",
+         "finish_date": "2007-07-15"
+      }
+   },
+   "user_bottom20_mangalist": {
+      "Dead Flowers": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 1,
+         "num_chapters_read": 2,
+         "score": 5,
+         "updated_at": "2009-06-16T07:33:30+00:00",
+         "start_date": "2007-08-18",
+         "finish_date": "2007-08-18"
+      },
+      "Me~teru no Kimochi": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 3,
+         "num_chapters_read": 28,
+         "score": 6,
+         "updated_at": "2007-08-21T07:37:40+00:00",
+         "start_date": "2007-08-19",
+         "finish_date": "2007-08-21"
+      },
+      "Open Sesame": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 2,
+         "num_chapters_read": 71,
+         "score": 6,
+         "updated_at": "2008-10-13T05:21:49+00:00",
+         "start_date": "2007-08-10"
+      },
+      "Kaede Typhoon": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 1,
+         "num_chapters_read": 0,
+         "score": 7,
+         "updated_at": "2007-11-23T19:15:39+00:00"
+      },
+      "Hen": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 1,
+         "num_chapters_read": 12,
+         "score": 7,
+         "updated_at": "2007-11-21T06:34:53+00:00"
+      },
+      "B Reaction": {
+         "status": "dropped",
+         "is_rereading": false,
+         "num_volumes_read": 0,
+         "num_chapters_read": 14,
+         "score": 7,
+         "updated_at": "2008-10-13T06:44:02+00:00",
+         "start_date": "2007-11-26"
+      },
+      "Sakura Tsuushin": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 10,
+         "num_chapters_read": 145,
+         "score": 7,
+         "updated_at": "2009-07-21T06:33:52+00:00",
+         "start_date": "2007-09-01"
+      },
+      "Show Me The Money": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 2,
+         "num_chapters_read": 11,
+         "score": 7,
+         "updated_at": "2007-08-05T06:14:50+00:00",
+         "start_date": "2007-08-04",
+         "finish_date": "2007-08-04"
+      },
+      "Asatte Dance": {
+         "status": "completed",
+         "is_rereading": false,
+         "num_volumes_read": 7,
+         "num_chapters_read": 89,
+         "score": 7,
+         "updated_at": "2007-09-07T15:55:39+00:00",
+         "start_date": "2007-09-03",
+         "finish_date": "2007-09-05"
+      },
+      "Unbalance x2": {
+         "status": "reading",
+         "is_rereading": false,
+         "num_volumes_read": 5,
+         "num_chapters_read": 72,
+         "score": 7,
+         "updated_at": "2009-04-02T06:01:20+00:00",
+         "start_date": "2007-08-22"
+      }
+   }
+}
